@@ -1,0 +1,4 @@
+[
+  { "keys": ["ctrl+alt+pageup"], "command": "select_lines", "args": {"forward": false} },
+  { "keys": ["ctrl+alt+pagedown"], "command": "select_lines", "args": {"forward": true} },
+]

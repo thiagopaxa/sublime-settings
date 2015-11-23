@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+console.clear();
+console.log('==================================');
+console.log($0);
+console.log('==================================');
+]]></content>
+  <tabTrigger>clog</tabTrigger>
+  <scope>source.js, text.html</scope>
+</snippet>

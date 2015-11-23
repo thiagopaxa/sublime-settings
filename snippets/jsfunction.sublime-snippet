@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+var ${1:nameFunction}= function(${2:opts}) {
+  // code it
+};
+]]></content>
+  <tabTrigger>fn;</tabTrigger>
+
+  <scope>source.js, text.html</scope>
+</snippet>

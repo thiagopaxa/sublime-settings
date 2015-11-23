@@ -1,0 +1,5 @@
+{
+  "options": [
+    "--predef", "['describe', 'expect', 'R7', 'xit', 'it']"
+    ]
+}

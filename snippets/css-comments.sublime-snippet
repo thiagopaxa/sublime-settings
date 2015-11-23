@@ -1,0 +1,10 @@
+<snippet>
+  <!-- to concat things in views -->
+  <content><![CDATA[
+/* ============================================== */
+/*  ${1:Comment}
+/* ============================================== */
+]]></content>
+  <tabTrigger>**</tabTrigger>
+  <!-- <scope></scope> -->
+</snippet>

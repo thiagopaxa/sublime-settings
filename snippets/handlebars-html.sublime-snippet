@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<script type="text/x-handlebars-template" id="${1:templateId}">
+  ${2:<!-- HTML CODE -->}
+</script>
+]]></content>
+  <tabTrigger>shand</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

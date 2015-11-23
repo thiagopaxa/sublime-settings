@@ -1,0 +1,8 @@
+<snippet>
+  <!-- to define variables, debug or 'puts' elements -->
+  <content><![CDATA[
+<% $0 %>
+]]></content>
+  <tabTrigger>%</tabTrigger>
+  <scope>text.html</scope>
+</snippet>
