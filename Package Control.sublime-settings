@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"ColorPicker",
+		"Colorsublime",
 		"Emmet",
 		"HTMLBeautify",
 		"Javascript Beautify",
