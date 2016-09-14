@@ -1,6 +1,6 @@
 {
 	"Vintage": true,
-	"color_scheme": "Packages/Colorsublime - Themes/Flatland_Dark.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -29,7 +29,7 @@
 		"*.scssc"
 	],
 	"flatland_square_tabs": true,
-	"font_size": 9,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"

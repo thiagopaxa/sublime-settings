@@ -1,0 +1,9 @@
+{
+  "user": {
+    "paths": {
+      "linux": [],
+      "osx": ["/Users/thiagopaixao/.nvm/versions/node/v6.2.1/bin/"],
+      "windows": []
+    }
+  }
+}

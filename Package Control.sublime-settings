@@ -5,12 +5,12 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"ColorPicker",
 		"Colorsublime",
 		"Emmet",
 		"HTMLBeautify",
 		"Javascript Beautify",
-		"JSHint Gutter",
 		"JSON Reindent",
 		"JSONLint",
 		"JSX",
@@ -20,6 +20,8 @@
 		"Sass",
 		"SideBarEnhancements",
 		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"Theme - Flatland",
 		"Tomorrow Color Schemes"
 	]
